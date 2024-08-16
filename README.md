@@ -1,7 +1,8 @@
 ## OPA😎👍
 
-Meu nome é Felipe Caetano
-seja bem vindo
+Meu nome é Felipe Caetano 🐱‍👤
+
+Seja bem vindo 🐱‍🏍
 
 - Estou estudando na Alura
 
