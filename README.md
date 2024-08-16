@@ -3,8 +3,8 @@
 Meu nome é Felipe Caetano
 seja bem vindo
 
--Estou estudando na Alura
+- Estou estudando na Alura
 
--insta: @zardfe_
+- insta: @zardfe_
 
--Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
